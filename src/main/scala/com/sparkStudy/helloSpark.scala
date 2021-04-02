@@ -11,7 +11,7 @@ object helloSpark {
     //输出大于10的元素
     for(arg <- mappedRDD)
       print(arg+" ")
-    println()
+//    println()
     println("math is work")
 
   }
